@@ -1,0 +1,47 @@
+.home__dashboard {
+  background: azure;
+}
+
+.home__dashboard h2 {
+  color: #25aae1;
+}
+
+.home__dashboard .col__info .dashboard-info {
+  margin-left: 1.5%;
+  font-size: 20px;
+}
+
+.home__dashboard .col__moviemanagement .btn {
+  width: 200px;
+  margin-top: 10px;
+  height: 40px;
+}
+
+.home__dashboard .col__newsmanagement .btn {
+  width: 200px;
+  margin-top: 10px;
+  height: 40px;
+}
+
+.home__dashboard .col__usermanagement h2 {
+  margin-bottom: 10px;
+}
+
+.home__dashboard .col__usermanagement .btn {
+  height: 40px;
+  width: 160px;
+  margin-right: 10px;
+}
+
+.home__dashboard .col__showtimes .btn {
+  width: 200px;
+  margin-top: 10px;
+  height: 40px;
+}
+
+.home__dashboard .col__webmanagement .btn {
+  width: 200px;
+  margin-top: 10px;
+  height: 40px;
+}
+/*# sourceMappingURL=Statistic.css.map */

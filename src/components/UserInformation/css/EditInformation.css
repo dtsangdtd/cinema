@@ -1,0 +1,25 @@
+.form-group .text__input {
+  margin-left: 0.5rem;
+  color: #000;
+  font-weight: 500;
+}
+
+.form-group .block__input {
+  background: darkgrey !important;
+}
+
+.form-group .input {
+  background: white;
+}
+
+.form-group .btnChange.btn-block {
+  color: white;
+  background-color: darkgray;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.form-group .btnChange.btn-block:hover {
+  background: linear-gradient(to right, #25aae1, #2bb673);
+}
+/*# sourceMappingURL=EditInformation.css.map */
